@@ -20,5 +20,5 @@ git config --global --unset https.proxy
 
 ## Npm (Node Js)
 
-npm config set proxy http://proxy.company.com:8080
+npm config set proxy http://proxy.company.com:8080  
 npm config set https-proxy http://proxy.company.com:8080
