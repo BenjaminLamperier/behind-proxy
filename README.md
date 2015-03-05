@@ -4,7 +4,7 @@ Working Behind a Network Proxy -  Tips and Tricks
 ## Standard Windows Configuration
 
 set http_proxy = http://proxyuser:proxypwd@proxy.server.com:8080  
-set http_proxy = http://proxyuser:proxypwd@proxy.server.com:8080
+set https_proxy = http://proxyuser:proxypwd@proxy.server.com:8080
 
 ## Git Proxy Configuration
 
