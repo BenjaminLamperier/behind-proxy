@@ -6,6 +6,10 @@ Working Behind a Network Proxy -  Tips and Tricks
 set http_proxy = http://proxyuser:proxypwd@proxy.server.com:8080  
 set https_proxy = http://proxyuser:proxypwd@proxy.server.com:8080
 
+## Composer
+
+Composer use the env variable http_proxy
+
 ## Git Proxy Configuration
 
 ### Set Proxy
